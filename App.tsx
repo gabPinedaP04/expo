@@ -17,7 +17,6 @@ export default function App() {
       <View className="mx-auto max-w-2xl text-center">
         <Text className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Votos App</Text>
       </View>
-      <Graficas />
     </ScrollView>
   );
 }
